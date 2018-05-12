@@ -1,0 +1,31 @@
+_repo: A-Christian-Directory--Part-1-of-4---13-Christian-Ethics_41633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baxter, Richard
+    aliases:
+    - Salvianus, Gildas
+    - Baxter, R. (Richard)
+    - Reed, Mr.
+    birthdate: 1615
+    deathdate: 1691
+    gutenberg_agent_id: '41274'
+    url: http://www.gutenberg.org/2009/agents/41274
+description: ''
+gutenberg_issued: '2012-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Christian sociology'
+- !lcsh 'Casuistry'
+title: 'A Christian Directory, Part 1: Christian Ethics'
+url: http://www.gutenberg.org/ebooks/41633
